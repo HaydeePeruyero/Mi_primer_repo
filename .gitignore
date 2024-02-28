@@ -1,3 +1,4 @@
 *.csv
 resultados/*
 !resultados/plots/
+**/*.csv
